@@ -1,4 +1,4 @@
 ---
-title: your first note
+title: first
 ---
 属性
