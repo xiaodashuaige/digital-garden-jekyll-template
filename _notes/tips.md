@@ -10,5 +10,4 @@ title: tips
 - 图片显示
 	- ![本地图片](zhu.png "相对路径")
 	- ![wangye](https://i-blog.csdnimg.cn/blog_migrate/b962b64b1a203b2237fe652944c362bc.png)
-	- <img src="https://i-blog.csdnimg.cn/blog_migrate/b962b64b1a203b2237fe652944c362bc.png" alt="替代文本">
-	- 
+<img src="https://i-blog.csdnimg.cn/blog_migrate/b962b64b1a203b2237fe652944c362bc.png">
